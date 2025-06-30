@@ -11,4 +11,7 @@ export default class CPF {
     public get getDataEmissao(): Date {
         return this.dataEmissao
     }
+    public setDataEmissao(novaData: Date): void {
+        this.dataEmissao = novaData
+    }
 }
