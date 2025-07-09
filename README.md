@@ -102,8 +102,6 @@ cd T1
 npm install
 ```
 
-ℹ️ **Observação:** Durante a instalação (`npm install`), alguns avisos de dependências desatualizadas podem aparecer. Isso não compromete a execução do projeto.
-
 **3 -> Compile os arquivos TypeScript:**
 
 ```
