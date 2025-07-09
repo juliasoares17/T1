@@ -1,4 +1,4 @@
-# T4 – Sistema CLI para Gestão de Comércio Pet
+# T1 – Sistema CLI para Gestão de Comércio Pet
 
 ## 1. Introdução
 
